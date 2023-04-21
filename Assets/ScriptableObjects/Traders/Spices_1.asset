@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf1be024f12480540b21be958b544f96, type: 3}
+  m_Name: Spices_1
+  m_EditorClassIdentifier: 
+  name: Red Sultan
+  artwork: {fileID: -1561185081120968160, guid: 2041fabfd97340c4ca9d4cb887542d8c, type: 3}
+  buyItem:
+  - item: {fileID: 11400000, guid: b1a468bb77930354d990b625b1028d50, type: 2}
+    interest: 3
+    percentToAppear: 1
+    amountRange: {x: 1, y: 500}
+  - item: {fileID: 11400000, guid: 5c7728477aae32e4f9a1e1d8e649ef00, type: 2}
+    interest: 4
+    percentToAppear: 1
+    amountRange: {x: 1, y: 10}
+  - item: {fileID: 11400000, guid: 0ce8e89fcd83aea4bab14bf4f5b5670e, type: 2}
+    interest: 2
+    percentToAppear: 0.913
+    amountRange: {x: 1, y: 500}
+  - item: {fileID: 11400000, guid: b92d6700e88820a458174e054d17e743, type: 2}
+    interest: 2
+    percentToAppear: 0.875
+    amountRange: {x: 1, y: 500}
+  - item: {fileID: 11400000, guid: 65783c613b5571743bb6ed526afd3217, type: 2}
+    interest: 4
+    percentToAppear: 0.766
+    amountRange: {x: 1, y: 1000}
+  - item: {fileID: 11400000, guid: 8be28e319ab06d84a97289d6bf18b8ba, type: 2}
+    interest: 0
+    percentToAppear: 1
+    amountRange: {x: 1, y: 500}
+  - item: {fileID: 11400000, guid: abe97db94669eb84398487dc2d6f4c20, type: 2}
+    interest: 4
+    percentToAppear: 0.738
+    amountRange: {x: 1, y: 50}
+  sellItem:
+  - item: {fileID: 11400000, guid: 8be28e319ab06d84a97289d6bf18b8ba, type: 2}
+    interest: 0
+    percentToAppear: 1
+    amountRange: {x: 1, y: 500}
+  - item: {fileID: 11400000, guid: 7d8beb9de4f1d1d48b5db3fafb8d07f9, type: 2}
+    interest: 3
+    percentToAppear: 0.91
+    amountRange: {x: 1, y: 500}
+  - item: {fileID: 11400000, guid: eb3e2f1138c771942b4a0bd51a670394, type: 2}
+    interest: 4
+    percentToAppear: 0.879
+    amountRange: {x: 1, y: 50}
+  - item: {fileID: 11400000, guid: 360c6f079a20f2745afa3015b9d956ed, type: 2}
+    interest: 3
+    percentToAppear: 0.941
+    amountRange: {x: 1, y: 500}
+  - item: {fileID: 11400000, guid: b4800631df1b29e479a902f66256b593, type: 2}
+    interest: 2
+    percentToAppear: 0.866
+    amountRange: {x: 1, y: 1000}
+  - item: {fileID: 11400000, guid: 41ca04805ee8e3143a4c2fdbe8dd213d, type: 2}
+    interest: 1
+    percentToAppear: 1
+    amountRange: {x: 1, y: 1000}
+  - item: {fileID: 11400000, guid: beeb3c6b979ea014c9ad19961f07c334, type: 2}
+    interest: 3
+    percentToAppear: 0.779
+    amountRange: {x: 1, y: 500}
+  - item: {fileID: 11400000, guid: 37b412790344bca488ca0f190fbdb9bd, type: 2}
+    interest: 4
+    percentToAppear: 0.645
+    amountRange: {x: 1, y: 500}
+  moneyRange: {x: 1, y: 10000}

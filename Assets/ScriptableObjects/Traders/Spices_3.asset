@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf1be024f12480540b21be958b544f96, type: 3}
+  m_Name: Spices_3
+  m_EditorClassIdentifier: 
+  name: Black Sand
+  artwork: {fileID: 6277228844855172791, guid: 2041fabfd97340c4ca9d4cb887542d8c, type: 3}
+  buyItem:
+  - item: {fileID: 11400000, guid: 7d8beb9de4f1d1d48b5db3fafb8d07f9, type: 2}
+    interest: 2
+    percentToAppear: 0.86
+    amountRange: {x: 1, y: 100}
+  - item: {fileID: 11400000, guid: eb3e2f1138c771942b4a0bd51a670394, type: 2}
+    interest: 5
+    percentToAppear: 0.838
+    amountRange: {x: 1, y: 25}
+  - item: {fileID: 11400000, guid: 360c6f079a20f2745afa3015b9d956ed, type: 2}
+    interest: 4
+    percentToAppear: 0.601
+    amountRange: {x: 1, y: 1000}
+  - item: {fileID: 11400000, guid: b4800631df1b29e479a902f66256b593, type: 2}
+    interest: 4
+    percentToAppear: 0.33
+    amountRange: {x: 1, y: 1000}
+  - item: {fileID: 11400000, guid: beeb3c6b979ea014c9ad19961f07c334, type: 2}
+    interest: 0
+    percentToAppear: 0.483
+    amountRange: {x: 1, y: 1000}
+  - item: {fileID: 11400000, guid: 41ca04805ee8e3143a4c2fdbe8dd213d, type: 2}
+    interest: 0
+    percentToAppear: 0.567
+    amountRange: {x: 1, y: 10000}
+  - item: {fileID: 11400000, guid: 37b412790344bca488ca0f190fbdb9bd, type: 2}
+    interest: 4
+    percentToAppear: 0.523
+    amountRange: {x: 1, y: 100}
+  - item: {fileID: 11400000, guid: 1267ab932041b4f48bf301b6cd49dcb3, type: 2}
+    interest: 0
+    percentToAppear: 1
+    amountRange: {x: 1, y: 500}
+  sellItem:
+  - item: {fileID: 11400000, guid: aa382a49719aa5b48a84b43cc821c4cb, type: 2}
+    interest: 3
+    percentToAppear: 0.246
+    amountRange: {x: 1, y: 100}
+  - item: {fileID: 11400000, guid: 85c5c7e7eea258b41b89f9b116b729c8, type: 2}
+    interest: 4
+    percentToAppear: 0.446
+    amountRange: {x: 1, y: 1000}
+  - item: {fileID: 11400000, guid: fa343c9ea88a9c448a61ca115ff2a9c5, type: 2}
+    interest: 3
+    percentToAppear: 0.813
+    amountRange: {x: 1, y: 100}
+  - item: {fileID: 11400000, guid: 3e7a254837c9d754d914f729179bc333, type: 2}
+    interest: 5
+    percentToAppear: 0.729
+    amountRange: {x: 1, y: 50}
+  - item: {fileID: 11400000, guid: 770d3d750dc5f3d49b7c6cb7c88c5dfc, type: 2}
+    interest: 2
+    percentToAppear: 0.916
+    amountRange: {x: 1, y: 1000}
+  - item: {fileID: 11400000, guid: ab9bef68f808dc946987a929775911b9, type: 2}
+    interest: 4
+    percentToAppear: 1
+    amountRange: {x: 1, y: 1000}
+  - item: {fileID: 11400000, guid: f918d98c1c027d844b08bb91317d8910, type: 2}
+    interest: 3
+    percentToAppear: 0.888
+    amountRange: {x: 1, y: 1000}
+  moneyRange: {x: 1, y: 10000}

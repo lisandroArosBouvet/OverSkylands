@@ -1,0 +1,2370 @@
+fileFormatVersion: 2
+guid: 4a713d7204ade3841905aee6aed18fc7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Water
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 461
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b89b675e7673124983a1a52af1da021
+      internalID: -1458244138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 461
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad730ead0890b3b43a742f87234d2e9a
+      internalID: -1762676601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 461
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bf1e57c3896bd4ba6bc213af27bdab
+      internalID: 1285365821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 461
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55157091098991545a47ecc342bd19ce
+      internalID: -155446676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 461
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4032c43f38403864f99a9055ddf7d56f
+      internalID: -1186080615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 461
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35082f20c7e25a7488ceff0bdfe1f0f1
+      internalID: -1011309338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_6
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 461
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a4a3511a546f54e9546564d36e14ca
+      internalID: -1266173499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_7
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 461
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ead956ff5a93404ba10f4116ce7a6c0
+      internalID: -531724218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_8
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 461
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d1fe714dfe3fc4aa907a63024e6022
+      internalID: 921013519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 461
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04c91e6c52f9244d8c447434a38d3f7
+      internalID: -872040856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodPlanks
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 410
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661fe338d18ddf741b50da18d93b3d58
+      internalID: 1125641203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trunk
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 410
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c448fc2c14c12c443892c37c931f82ea
+      internalID: 663379339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 410
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d274cd6c262118349badb3b7bb70d892
+      internalID: -1347364315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 411
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8469fbe6bb900ca409cd0d65850708c1
+      internalID: 869695331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReiforceTables
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 410
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe8750990722604a9779efb1a537614
+      internalID: -1152708802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 410
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6d777837477e54996eed56aab1b661
+      internalID: 1034694020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_16
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 410
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cbae85c7e92314fa6c98afc2de0c14
+      internalID: -868361664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_17
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 410
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1089155278a07ba43a07764f8749c9f0
+      internalID: 1681098069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_18
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 410
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c9f83ac9854c342a1068752eef523e
+      internalID: 1388238633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_19
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 410
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fb3299f20062042a4c66b025ce728a
+      internalID: 1801736485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 359
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5554b4d2325523843910c6b5845a5fdf
+      internalID: 373343437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_21
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 359
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31eb4ceff063e946a64743b92ccd9a5
+      internalID: 890412522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_22
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 359
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b490a28b439645498bbf93ab3db0e26
+      internalID: -843216572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_23
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 359
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53d7c8fc0a334d418ec81cdcbdbea82
+      internalID: 1925130971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_24
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 359
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2cda46fe0fb8d498b0d1893bd2f5d4
+      internalID: 294677671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_25
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 359
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e52a86681fc0f44ebb98ffc95391791
+      internalID: 1864945788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 359
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa67f7cbd76bfaf46997c001130b481e
+      internalID: -460264223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_27
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 359
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e515414387ce3964184b3d90a411af11
+      internalID: 1265987889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_28
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 359
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a373c37a265d73a4fa810ba004174aac
+      internalID: -1844851149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_29
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 359
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a141132de31b304ba68b7776207b8ee
+      internalID: 1423541833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 308
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac033a27a5ca2084d835b8477826391d
+      internalID: 592882486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_31
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 308
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6547c44e25288774b93979cbe8a0b642
+      internalID: -1232470443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_32
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 308
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b136574dcaeddc740bae6ca2c0d1c0c5
+      internalID: 124828983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_33
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 308
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a6bce6434561e4d874894685818a3f
+      internalID: -235551756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_34
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 308
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4838b14648c3946b374e780a723a3e
+      internalID: -416443428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_35
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 308
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850985244f01cd346939d849f39efdfd
+      internalID: 787327293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_36
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 308
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75f4aab6753a6d4fa86861397f77384
+      internalID: -126408411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_37
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 308
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a47b58884f979747aa06b4b0dead314
+      internalID: 1355035109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_38
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 308
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2eda4166b57ef4480efb65098ea51a
+      internalID: 1328267572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_39
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 308
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308a3feb5b83698448c533560fccd673
+      internalID: 1398603110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b151b0844fb4c4ea9e35f0dbe711f5
+      internalID: -1105245345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_41
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 257
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d45a136c4672cc4fb035ff9512a0d28
+      internalID: 1622816482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axe
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 257
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d34f992a6151e44acee320b88e4b7b
+      internalID: -1440376795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_43
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 257
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea4182fbb5ec734289f06324048f1cd
+      internalID: -1622413440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 257
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7655f4a80aad1074aaddfd17fc5ad4bc
+      internalID: -1268156738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_45
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 257
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60968cf7d040e7749ad6ea74d9590030
+      internalID: -1491605141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_46
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 257
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432f1994c3c2d5e499e8f286a79f98e8
+      internalID: 541054807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_47
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 257
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c428bc3f45bae7a44b004dae8ae8b8fe
+      internalID: 1306194436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peak
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 257
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417250f8f5b98f5499f6d2b56cbe9a69
+      internalID: -664425720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nails
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 257
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194714553f8de95479f9e777ff609d74
+      internalID: -732143182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 206
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caad6e95083a73c4dafc8c2eb98e22d7
+      internalID: 1841865782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_51
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 206
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37715fc2151222e43ae5e0acc7fed960
+      internalID: -1957785099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_52
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 206
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52695fb784d93d64faa0c8b8339dc767
+      internalID: 885699009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_53
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 206
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be7bce7612b7c64a9e9b02105162425
+      internalID: 569916193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_54
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 206
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55133c4da82abc9419f02313312f2177
+      internalID: -630098395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_55
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 206
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f74e5bfff91bc44e88a1f19d71b45d9
+      internalID: 2139870420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_56
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 206
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce166e007c749b499f840f9de188488
+      internalID: -871781907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paint
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 206
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae45967c42184554c90c3fb9de403a18
+      internalID: 1652475015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_58
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 206
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf74a15de3e1ce4ea7d5900bd6a3f88
+      internalID: -952067908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_59
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 206
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3417c68953c5cd4c96250c3e0c96e91
+      internalID: 1423581858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meat
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 155
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa041ba7069af843a41589ca9e494e4
+      internalID: 1688926912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_61
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 155
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b345fd356af6a46924648ca60f17b0
+      internalID: 1993850716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloth
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 155
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3457e33c8e911c545b919159d683de10
+      internalID: -130388461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_63
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 155
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cf4a782aba4ea4585ce0899a239beb
+      internalID: 719948194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_64
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 155
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5f30e59672df540a52509ce49c95e7
+      internalID: 133317669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_65
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 155
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b06d203277fff4680badc257e1f46d
+      internalID: -432257774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fertilizer
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 155
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd3492b437b6554cb210209de67249e
+      internalID: 752549689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_67
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 155
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed4554f4d270504a9312e65b3923f8c
+      internalID: -285805783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_68
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 155
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f67b5af54645844925f50f5b52f084
+      internalID: -157568664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cotton
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 155
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7187bc965f3a9845893829d734c7236
+      internalID: 2062220230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71455794543337441b815aa85209fb6d
+      internalID: 2076498910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_71
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 104
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00db8a7b820ab784d903747f05632044
+      internalID: -1282250687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_72
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 104
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93679486362b3494a8b89d326c6c44e8
+      internalID: 978881330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_73
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 104
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cdebc00b67a974c85d4201775dbd91
+      internalID: -1613581583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_74
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 104
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f4dfbd58c6c7946ab9e38343475e56
+      internalID: -287096290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_75
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 104
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23bcce73e0fb6f4fb4afa7e551a5460
+      internalID: -833354977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_76
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 104
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4355e117e243614c8f3200ecb7e5a24
+      internalID: 890125518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_77
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 104
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7050f3ee54f2314eb788732e8548897
+      internalID: 1222377044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_78
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 104
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efd6e8e878f8ad43abe373e35b0af2d
+      internalID: -756218140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fiber
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 104
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba300a348bdf1e46aa9864592880ed9
+      internalID: 270925663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 53
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084b73a81c7c69b45a786df6a0bb6bb0
+      internalID: -857540542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_81
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 53
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2386ce9be418d2141b497625ee9e5a50
+      internalID: -886337553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_82
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 53
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451f61e43ac6d1744a710645db0b5db8
+      internalID: -336672722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 53
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa623de1f8f87e49a17814ca3f466f0
+      internalID: -328249580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wheat
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 53
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f25259b71950464f88cf1a9f11cc767
+      internalID: 930051303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coal
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 53
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b179adfd124bb428d7689a63c4d98f
+      internalID: -1063192094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_86
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 53
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f2d654e07740b4ead9b08eb86ad240
+      internalID: 1509501406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dried meat
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 53
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691db932a6a44ef409269ebd9d2dff5f
+      internalID: 1155391421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Algae
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 53
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784fe3047ec73704a90a76a05cb1586b
+      internalID: -1816485413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_89
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 53
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9608fe0508b69f94f9a45b637c5242f5
+      internalID: 1997858609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ed832ea3687b14a81b9bb74ca5c76a
+      internalID: -263922858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_91
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2695df1e412d0489a197544b9c8d3a
+      internalID: 130964358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_92
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 2
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06fd5a7734511141925790ce5121612
+      internalID: -400109646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_93
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 2
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975361d6351e4fe4ea8576f6d3457fc6
+      internalID: 1167490221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_94
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 2
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1547d10c37be04c91b9ba32a88a0ab
+      internalID: 287714995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_95
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4bce7895d8928547bbc4ff2c3d6a071
+      internalID: 217391884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_96
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 2
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c83053ffed0f3a4498041e68f03f97a
+      internalID: 1989915161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_97
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 2
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7b337fece4cda4984dd9a64c519ec6
+      internalID: -1235938341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_98
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 2
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b765c31b5a60a42965f1692f440930
+      internalID: 1160958732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourcesPlaceHolder10x10_99
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 2
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767a6e256c196084bb0c56de4450fbbd
+      internalID: -431922498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ResourcesPlaceHolder10x10_92: -400109646
+      ResourcesPlaceHolder10x10_25: 1864945788
+      ResourcesPlaceHolder10x10_51: -1957785099
+      ResourcesPlaceHolder10x10_65: -432257774
+      Fiber: 270925663
+      Water: -1458244138
+      Iron: 1034694020
+      Coal: -1063192094
+      Tool: -1268156738
+      ResourcesPlaceHolder10x10_52: 885699009
+      ResourcesPlaceHolder10x10_80: -857540542
+      ResourcesPlaceHolder10x10_55: 2139870420
+      ResourcesPlaceHolder10x10_29: 1423541833
+      Fertilizer: 752549689
+      ResourcesPlaceHolder10x10_76: 890125518
+      Meat: 1688926912
+      ResourcesPlaceHolder10x10_58: -952067908
+      ResourcesPlaceHolder10x10_28: -1844851149
+      ResourcesPlaceHolder10x10_50: 1841865782
+      WoodPlanks: 1125641203
+      ResourcesPlaceHolder10x10_2: 1285365821
+      ResourcesPlaceHolder10x10_24: 294677671
+      ResourcesPlaceHolder10x10_34: -416443428
+      ResourcesPlaceHolder10x10_64: 133317669
+      ResourcesPlaceHolder10x10_78: -756218140
+      ResourcesPlaceHolder10x10_23: 1925130971
+      ResourcesPlaceHolder10x10_16: -868361664
+      ResourcesPlaceHolder10x10_93: 1167490221
+      ResourcesPlaceHolder10x10_98: 1160958732
+      ResourcesPlaceHolder10x10_73: -1613581583
+      ResourcesPlaceHolder10x10_31: -1232470443
+      ResourcesPlaceHolder10x10_70: 2076498910
+      ResourcesPlaceHolder10x10_36: -126408411
+      Trunk: 663379339
+      ResourcesPlaceHolder10x10_37: 1355035109
+      Dried meat: 1155391421
+      ResourcesPlaceHolder10x10_54: -630098395
+      ResourcesPlaceHolder10x10_99: -431922498
+      ResourcesPlaceHolder10x10_61: 1993850716
+      ResourcesPlaceHolder10x10_97: -1235938341
+      ResourcesPlaceHolder10x10_22: -843216572
+      ResourcesPlaceHolder10x10_89: 1997858609
+      ResourcesPlaceHolder10x10_46: 541054807
+      ResourcesPlaceHolder10x10_41: 1622816482
+      Cotton: 2062220230
+      ResourcesPlaceHolder10x10_72: 978881330
+      ResourcesPlaceHolder10x10_38: 1328267572
+      ResourcesPlaceHolder10x10_35: 787327293
+      ResourcesPlaceHolder10x10_33: -235551756
+      Cloth: -130388461
+      ResourcesPlaceHolder10x10_95: 217391884
+      Wheat: 930051303
+      ResourcesPlaceHolder10x10_68: -157568664
+      ResourcesPlaceHolder10x10_94: 287714995
+      Fruit: -1186080615
+      Peak: -664425720
+      ResourcesPlaceHolder10x10_96: 1989915161
+      ResourcesPlaceHolder10x10_59: 1423581858
+      ResourcesPlaceHolder10x10_43: -1622413440
+      ResourcesPlaceHolder10x10_91: 130964358
+      ResourcesPlaceHolder10x10_27: 1265987889
+      ResourcesPlaceHolder10x10_30: 592882486
+      ResourcesPlaceHolder10x10_3: -155446676
+      Gold: -460264223
+      ResourcesPlaceHolder10x10_77: 1222377044
+      ResourcesPlaceHolder10x10_86: 1509501406
+      ResourcesPlaceHolder10x10_40: -1105245345
+      ResourcesPlaceHolder10x10_7: -531724218
+      ResourcesPlaceHolder10x10_82: -336672722
+      Algae: -1816485413
+      ResourcesPlaceHolder10x10_6: -1266173499
+      ResourcesPlaceHolder10x10_63: 719948194
+      Nails: -732143182
+      ResourcesPlaceHolder10x10_21: 890412522
+      ResourcesPlaceHolder10x10_75: -833354977
+      ResourcesPlaceHolder10x10_32: 124828983
+      Fish: -872040856
+      ResourcesPlaceHolder10x10_20: 373343437
+      ResourcesPlaceHolder10x10_47: 1306194436
+      ResourcesPlaceHolder10x10_67: -285805783
+      ResourcesPlaceHolder10x10_1: -1762676601
+      ResourcesPlaceHolder10x10_19: 1801736485
+      ResourcesPlaceHolder10x10_8: 921013519
+      ResourcesPlaceHolder10x10_39: 1398603110
+      ResourcesPlaceHolder10x10_17: 1681098069
+      Wood: 869695331
+      Rock: -328249580
+      ResourcesPlaceHolder10x10_74: -287096290
+      Paint: 1652475015
+      ResourcesPlaceHolder10x10_56: -871781907
+      ReiforceTables: -1152708802
+      Axe: -1440376795
+      ResourcesPlaceHolder10x10_18: 1388238633
+      ResourcesPlaceHolder10x10_71: -1282250687
+      ResourcesPlaceHolder10x10_90: -263922858
+      Tables: -1347364315
+      ResourcesPlaceHolder10x10_53: 569916193
+      ResourcesPlaceHolder10x10_5: -1011309338
+      ResourcesPlaceHolder10x10_81: -886337553
+      ResourcesPlaceHolder10x10_45: -1491605141
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

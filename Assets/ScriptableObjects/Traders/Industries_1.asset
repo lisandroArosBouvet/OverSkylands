@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf1be024f12480540b21be958b544f96, type: 3}
+  m_Name: Industries_1
+  m_EditorClassIdentifier: 
+  name: Shogun
+  artwork: {fileID: -4059550026705813347, guid: 2041fabfd97340c4ca9d4cb887542d8c, type: 3}
+  buyItem:
+  - item: {fileID: 11400000, guid: 360c6f079a20f2745afa3015b9d956ed, type: 2}
+    interest: 3
+    percentToAppear: 0.659
+    amountRange: {x: 20, y: 50}
+  - item: {fileID: 11400000, guid: aa382a49719aa5b48a84b43cc821c4cb, type: 2}
+    interest: 4
+    percentToAppear: 0.656
+    amountRange: {x: 1, y: 100}
+  - item: {fileID: 11400000, guid: ab9bef68f808dc946987a929775911b9, type: 2}
+    interest: 2
+    percentToAppear: 1
+    amountRange: {x: 1, y: 1000}
+  - item: {fileID: 11400000, guid: 85c5c7e7eea258b41b89f9b116b729c8, type: 2}
+    interest: 1
+    percentToAppear: 0.887
+    amountRange: {x: 1, y: 1000}
+  - item: {fileID: 11400000, guid: 3e7a254837c9d754d914f729179bc333, type: 2}
+    interest: 1
+    percentToAppear: 0.311
+    amountRange: {x: 5, y: 50}
+  sellItem:
+  - item: {fileID: 11400000, guid: 5c7728477aae32e4f9a1e1d8e649ef00, type: 2}
+    interest: 6
+    percentToAppear: 0.93
+    amountRange: {x: 1, y: 5}
+  - item: {fileID: 11400000, guid: 0ce8e89fcd83aea4bab14bf4f5b5670e, type: 2}
+    interest: 0
+    percentToAppear: 0.726
+    amountRange: {x: 100, y: 1000}
+  - item: {fileID: 11400000, guid: b1a468bb77930354d990b625b1028d50, type: 2}
+    interest: 0
+    percentToAppear: 1
+    amountRange: {x: 50, y: 300}
+  - item: {fileID: 11400000, guid: 1267ab932041b4f48bf301b6cd49dcb3, type: 2}
+    interest: 2
+    percentToAppear: 1
+    amountRange: {x: 50, y: 300}
+  moneyRange: {x: 3000, y: 10000}
